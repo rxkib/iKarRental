@@ -1,0 +1,24 @@
+{
+    "0": {
+        "id": "admin123",
+        "full_name": "Administrator",
+        "email": "admin@ikarrental.hu",
+        "password": "admin",
+        "is_admin": true
+    },
+    "6775d23c5dc9e": {
+        "full_name": "Md Rakibul Hasan",
+        "email": "rakib@gmail.com",
+        "password": "rakibnew",
+        "is_admin": false,
+        "id": "6775d23c5dc9e",
+        "profile_pic": "uploads\/pic.JPG"
+    },
+    "1": {
+        "id": "6784d54d7c2be",
+        "full_name": "josh",
+        "email": "josh@gmail.com",
+        "password": "josH8080",
+        "is_admin": false
+    }
+}
